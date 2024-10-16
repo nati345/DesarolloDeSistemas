@@ -16,11 +16,9 @@ public class Habilidad {
 	}
 
 
-
 	public void setDanio(int danio) {
 		this.danio = danio;
 	}
-
 
 
 	public String getNombre() {
@@ -28,15 +26,9 @@ public class Habilidad {
 	}
 
 
-
 	public void setNombre(String nombre) {
 		this.nombre = nombre;
 	}
 
-
-
-	public void suma(int num1, int num2) {
-		syso num1 + num2;
-	}
 
 }
